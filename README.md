@@ -14,4 +14,8 @@ The following libraries and packages were utilized for this project:
 * **Pandas:** for data loading and manipulation;<br>
 * **Scikit-learn:** for implementing machine learning models and conducting statistical tests (such as chi2 and p-value computations).<br>
 
+## Usage
+Feel free to explore the notebook to understand the analysis process and the insights gained regarding early stage diabetes prediction.
 
+## Contributions
+Contributions to enhance the analysis or improve the code are welcome. Please feel free to open issues or pull requests.
